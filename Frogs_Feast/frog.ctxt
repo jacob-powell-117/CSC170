@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=frog
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ checkKeyInput()
+comment3.params=x\ y
+comment3.target=boolean\ isObstacleAt(int,\ int)
+comment3.text=\r\n\ Checks\ if\ the\ given\ coordinates\ are\ occupied\ by\ a\ solid\ obstacle.\r\n\ @param\ x\ The\ target\ X\ coordinate.\r\n\ @param\ y\ The\ target\ Y\ coordinate.\r\n\ @return\ true\ if\ a\ rock\ or\ plant\ is\ present,\ false\ otherwise.\r\n
+comment4.params=
+comment4.target=MyWorld\ getMyWorld()
+comment5.params=
+comment5.target=void\ checkCollisions()
+numComments=6

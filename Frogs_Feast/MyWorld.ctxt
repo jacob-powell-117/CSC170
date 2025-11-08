@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment1.params=
+comment1.target=MyWorld()
+comment2.params=
+comment2.target=void\ prepare()
+comment3.params=actorClass\ count
+comment3.target=void\ spawnActors(java.lang.Class,\ int)
+comment4.params=
+comment4.target=int[]\ findEmptyLocation()
+comment5.params=amount
+comment5.target=void\ increaseScore(int)
+comment6.params=
+comment6.target=void\ advanceLevel()
+comment7.params=win
+comment7.target=void\ endGame(boolean)
+numComments=8
